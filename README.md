@@ -1,6 +1,6 @@
 # 🩺 MedAssist – AI-Powered Health Advisor
 
-A full-stack web application that leverages OpenAI to deliver intelligent health guidance, symptom checking, medicine lookup, diet planning, health tracking, and hospital discovery — all in one beautifully crafted platform.
+A Frontend web application that leverages OpenAI to deliver intelligent health guidance, symptom checking, medicine lookup, diet planning, health tracking, and hospital discovery — all in one beautifully crafted platform.
 
 ---
 
